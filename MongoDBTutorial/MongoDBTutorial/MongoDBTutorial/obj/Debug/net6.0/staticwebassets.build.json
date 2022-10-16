@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hpDU8f6G8eNU30LNBkMaxfGQZ1bfM6mzzaY0B1RQ8BQ=",
+  "Source": "MongoDBTutorial",
+  "BasePath": "_content/MongoDBTutorial",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
